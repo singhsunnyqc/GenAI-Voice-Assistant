@@ -1,3 +1,13 @@
+# This project is a Generative AI-powered voice chatbot designed to streamline and enhance the travel booking experience.
+
+## Demo Video
+
+
+https://github.com/user-attachments/assets/8edc4472-df96-4f32-8da9-dc879a4b90be
+
+
+
+
 ## Prepare Development Environment
 
 We will be using `Poetry`, a versatile tool for Python projects that simplifying dependency management and packaging. It automates the process of declaring, installing, and updating the libraries your project relies on. By using a lockfile, `Poetry` guarantees consistent and reproducible builds, ensuring that your project's dependencies are always installed in the specified versions. Additionally, `Poetry` provides convenient features for building your project into distributable formats, making it easier to share and deploy your work.

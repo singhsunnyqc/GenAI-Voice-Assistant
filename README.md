@@ -1,4 +1,7 @@
-# This project is a Generative AI-powered voice chatbot designed to streamline and enhance the travel booking experience.
+# GenAI - powered Voice chatbot designed to streamline and enhance the travel booking experience.
+
+## Overview
+This project is a Generative AI-powered voice chatbot designed to streamline and enhance the travel booking experience.
 
 ## Demo Video
 
